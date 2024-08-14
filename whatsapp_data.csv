@@ -1,0 +1,220 @@
+DATE,TIME,Name,Chat,scores,compound,positive,neutral,negative,comp_score,Topic
+22/10/2022, 1:00 pm , Ragu, Deii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+22/10/2022, 1:00 pm , Ragu, Yen bag ga kanom Un bag konduporen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2022, 1:01 pm , Rahul, 🤨,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+22/10/2022, 1:02 pm , Ragu, Ooruka pora ila la...aprom ena,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2022, 1:02 pm , Rahul, Seri okk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2022, 1:08 pm , Ragu, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 8:38 pm , Ragu, Yedhuku da naa v2la dha iruken nu sona nee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 8:54 pm , Rahul, This message was deleted,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 8:58 pm , Rahul, Deii avaru nee enna pannitu irrukanu kettaru vetula  irrukan oruku poganum nu sonnan nu sonnen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:04 pm , Ragu, Ada po da,"{'neg': 0.643, 'neu': 0.357, 'pos': 0.0, 'compound': -0.5574}",-0.5574,0.0,0.357,0.643,neg,2
+28/10/2022, 9:05 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:05 pm , Rahul, Yenda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+28/10/2022, 9:05 pm , Rahul, Karthi Anna thane,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:06 pm , Ragu, Apdi la ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:06 pm , Rahul, Na avaru ketta Nala than sonnen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:07 pm , Ragu, Naa Vera oru problem kanga naa apdi panitu iruken,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.0,0.748,0.252,neg,4
+28/10/2022, 9:07 pm , Ragu, Okok....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+28/10/2022, 9:07 pm , Rahul, Yena,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:07 pm , Ragu, Ipdi dha na sonan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:07 pm , Ragu, Adhu podhum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+28/10/2022, 9:07 pm , Rahul, Hmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+28/10/2022, 9:07 pm , Ragu, Abi friend room ku varen,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.444,0.556,0.0,pos,4
+28/10/2022, 9:08 pm , Rahul, Yaru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:08 pm , Ragu, Raja,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:08 pm , Ragu, Iryarraja,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:09 pm , Ragu, Naa num trm owner kita sola poren...naa num madhav room vitu poga porom nu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:11 pm , Rahul, Nee enga pora,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:11 pm , Rahul, Ithu yaru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:12 pm , Ragu, Ayyaraja,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:12 pm , Ragu, Naa job vituten da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+28/10/2022, 9:12 pm , Ragu, Join kita um soliten,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.423,0.577,0.0,pos,4
+28/10/2022, 9:12 pm , Rahul, Tdy ponnila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+28/10/2022, 9:12 pm , Rahul, Yenda vitta,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+28/10/2022, 9:12 pm , Ragu, Sari Monday va ....manager kita pesalam avnga Ena soldranga nu paru aprom Un istam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:12 pm , Ragu, Solitaru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:13 pm , Ragu, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:13 pm , Rahul, Hmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+28/10/2022, 9:13 pm , Ragu, Pakalam...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 9:13 pm , Ragu, Monday confirm agum .,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:13 pm , Rahul, Seri na call panndren aprm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:14 pm , Ragu, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:56 pm , Ragu, Apdi manager weekend la sat and Sunday leave yeduthukonga nu sona ....naa,"{'neg': 0.098, 'neu': 0.902, 'pos': 0.0, 'compound': -0.0516}",-0.0516,0.0,0.902,0.098,neg,4
+28/10/2022, 9:57 pm , Ragu, Malya Inga Eppi la join pani iruku medavakam la anna v2ku mela veedu Galina irukam....annga poren,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.296}",0.296,0.128,0.872,0.0,pos,4
+28/10/2022, 9:58 pm , Rahul, Nee mattuma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+28/10/2022, 9:59 pm , Rahul, Enda velaiya Vida pora aprom avaru yenna leave tharathu,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.0516}",-0.0516,0.0,0.87,0.13,neg,4
+28/10/2022, 10:00 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+28/10/2022, 10:01 pm , Rahul, Okk da ennamo unaku yenna thonutho pannu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+28/10/2022, 10:03 pm , Ragu, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/10/2022, 6:52 am , Ragu, Deii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+29/10/2022, 6:52 am , Ragu, Wifi over ra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/10/2022, 8:31 am , Ragu, Customer care ku call pani vara sollu LOS problem...,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4939}",0.4939,0.286,0.714,0.0,pos,4
+29/10/2022, 8:31 am , Ragu, Compliance rise pannu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+29/10/2022, 9:12 am , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+29/10/2022, 11:18 am , Rahul, Deii ennachuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+29/10/2022, 2:36 pm , Ragu, Stalin aachi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+29/10/2022, 3:22 pm , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+30/11/2022, 11:46 am , Ragu, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+17/12/2022, 9:58 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+18/12/2022, 12:52 am , Ragu, Deii cocokola vagitu va...vadha aprom amount tharen....tn 22 Chennai adha kadai la vangitu vaa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+18/12/2022, 12:52 am , Ragu, Don't forget,"{'neg': 0.0, 'neu': 0.375, 'pos': 0.625, 'compound': 0.1695}",0.1695,0.625,0.375,0.0,pos,2
+18/12/2022, 1:54 am , Rahul, Deii amaithiya paduda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+18/12/2022, 10:22 am , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+30/12/2022, 8:47 am , Ragu, Deii yepa da varuva,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+30/12/2022, 8:47 am , Ragu, Sariya pocha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+30/12/2022, 8:58 am , Rahul, Hmm ok ada,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.524,0.476,0.0,pos,3
+30/12/2022, 8:58 am , Rahul, Next week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+30/12/2022, 9:57 am , Ragu, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+30/12/2022, 9:57 am , Ragu, Monday va,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+30/12/2022, 10:02 am , Rahul, Monday varuven nanu theriyathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+05/01/2023, 1:24 pm , Rahul, Deii yen tiffen box aa pathiya Inga irrukurathu enthu illa nee mathi eduthutta nu nenaikuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+05/01/2023, 1:28 pm , Ragu, Theriyala da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+05/01/2023, 1:29 pm , Rahul, Inga onu irruku athu enthu illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+05/01/2023, 1:29 pm , Ragu, Adhu theriyala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+05/01/2023, 1:30 pm , Ragu, Naa yedhum mathila kudukala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+05/01/2023, 1:30 pm , Rahul, Na kitchen self la tha vachutu ponen anga illa atha ketten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+05/01/2023, 1:31 pm , Ragu, Anga irudhu naa yedhum yedukala da..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+05/01/2023, 1:31 pm , Rahul, Hmmk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+07/01/2023, 9:33 am , Ragu, Deii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+07/01/2023, 9:34 am , Ragu, INOVALON guidelines anupu ......ipa irudha anupu ..ila na office poitu yeduthu anupu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 9:34 am , Rahul, Ithu enna guide line appdi ethuvum illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 9:35 am , Rahul, Nee rent annpu pay panniralam,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0,0.741,0.259,neg,4
+07/01/2023, 10:22 am , Ragu, New updated anupuda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 10:22 am , Ragu, 10 kula anupuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 10:25 am , Rahul, Same tha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 10:26 am , Rahul, 3370,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+07/01/2023, 10:44 am , Ragu, Deii yenkita teams ila ...so anupu what's la....updated lam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 10:51 am , Rahul, Check panndren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 10:52 am , Rahul, Yaruku da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+07/01/2023, 11:46 am , Ragu, Yenaku dha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 12:50 pm , Rahul, Office vara poriya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 1:43 pm , Ragu, Anupuda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+07/01/2023, 1:46 pm , Rahul, Dei na ne IPO tha office poren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 1:47 pm , Rahul, Nee vantha oru refresher efuka sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/01/2023, 2:22 pm , Ragu, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+07/01/2023, 9:00 pm , Ragu, Rent anupiten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+08/01/2023, 2:03 am , Rahul, Ok da,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.688,0.312,0.0,pos,3
+15/01/2023, 9:06 am , Rahul, Happy Pongal daa,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.649,0.351,0.0,pos,2
+15/01/2023, 9:34 am , Ragu, Happy pongal daa🤞,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.649,0.351,0.0,pos,2
+19/01/2023, 2:04 pm , Ragu, Naa vara late agum pola da ...rapido la today poiriya?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+19/01/2023, 2:07 pm , Rahul, Seri night pickup panniko from office,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+19/01/2023, 2:27 pm , Ragu, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+01/02/2023, 2:16 pm , Ragu, Wifi total amount avlo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+01/02/2023, 2:20 pm , Rahul, 943,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+01/02/2023, 2:31 pm , Ragu, Rent ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+01/02/2023, 2:32 pm , Rahul, 15500,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+10/02/2023, 12:42 pm , Ragu, Time kula varana nee poda naa nera office vadhu bike vituren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+10/02/2023, 12:42 pm , Ragu, Inga time agum pola,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+10/02/2023, 12:43 pm , Rahul, Nee enga irruka?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/02/2023, 12:51 pm , Ragu, Common na use pandra chena patharatha mudialavuku wash pani vei da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+08/03/2023, 12:28 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+12/03/2023, 9:09 pm , Ragu, Yenoda bus spare nee yeduthuko,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+12/03/2023, 9:10 pm , Ragu, 290 anupunum bus spare less pani sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+12/03/2023, 10:29 pm , Rahul, Same tha da bus ticketum I'll take,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+13/03/2023, 8:16 am , Ragu, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+20/03/2023, 9:14 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+21/03/2023, 1:23 pm , Ragu, Deii bike rc photo copy and insurance photo anupuda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+21/03/2023, 1:32 pm , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+21/03/2023, 1:32 pm , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+21/03/2023, 1:35 pm , Ragu, Romba nandri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+15/04/2023, 7:08 pm , Rahul, Deii 1200 nee send pannanuma illa Ashok aa?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+15/04/2023, 7:10 pm , Ragu, Ashok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/04/2023, 7:10 pm , Ragu, Naa soliten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/04/2023, 7:10 pm , Ragu, Anupiduvan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+16/04/2023, 6:06 am , Rahul, Hmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+22/04/2023, 6:41 am , Ragu, 100 yedhukiten da....gpay pandren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+22/04/2023, 6:41 am , Ragu, Ashok kita message panidu ....amount yenga iruku nu beco night dha delivery varum pola so .....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/04/2023, 8:39 am , Rahul, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+29/04/2023, 12:11 pm , Ragu, David num irudha anupu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/04/2023, 12:11 pm , Rahul, Devid.vcf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+07/05/2023, 4:08 pm , Rahul, Esakki Akka.vcf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+08/05/2023, 9:26 am , Rahul, Food.vcf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+08/05/2023, 12:34 pm , Rahul, https://youtu.be/0-jEXRQCmlY,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+04/06/2023, 8:20 pm , Rahul, https://youtu.be/U3qMVMF_XIY,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+11/06/2023, 11:51 am , Ragu, Night nee v2la dha irupan nu watercan ku solitu 70 send panan....so Chek pani tu last 3 watercan yaru thanum mo ketu pay pana solu .......da,"{'neg': 0.055, 'neu': 0.945, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0,0.945,0.055,neg,4
+11/10/2023, 8:03 pm , Rahul, Deii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+11/10/2023, 8:05 pm , Ragu, Avan evlo match la panadhuku ipa dha da olunga play pandran.....record la brake pandren....I think  you know meaning of vanjapugalchi ani idha type la dha naa status poten,"{'neg': 0.0, 'neu': 0.918, 'pos': 0.082, 'compound': 0.34}",0.34,0.082,0.918,0.0,pos,4
+11/10/2023, 8:08 pm , Rahul, Therium da unna pathi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+11/10/2023, 8:10 pm , Ragu, Fastest centuries 6th place mmmm well done prabuuu,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.2732}",0.2732,0.231,0.769,0.0,pos,0
+11/10/2023, 8:14 pm , Rahul, 🤝🔥🔥,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+22/10/2023, 2:45 pm , Ragu, Idha month end amount tharen solitara,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2023, 2:46 pm , Ragu, House owner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2023, 3:04 pm , Rahul, Advance aa?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+22/10/2023, 3:12 pm , Ragu, Ama...da...indha month end room gali pandringala...adha ...ketan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+22/10/2023, 3:15 pm , Rahul, Kali panndromanu thrlada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+22/10/2023, 3:51 pm , Ragu, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+29/10/2023, 9:09 am , Ragu, Ipa new person kita Yen advance vangi yenaku pay panalam ila ...?,"{'neg': 0.113, 'neu': 0.887, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.0,0.887,0.113,neg,4
+29/10/2023, 11:32 am , Ragu, Seri vidu da .....naa Vera yedhuna panikuren....advance hold panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+29/10/2023, 11:49 am , Rahul, Okie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+29/10/2023, 5:52 pm , Ragu, Yenala amount ready pana mudiyala.....Dec  1st amount vangi potu yenaku....ok va,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}",0.3612,0.2,0.8,0.0,pos,3
+29/10/2023, 7:24 pm , Ragu, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+29/10/2023, 10:23 pm , Ragu, Una dha da kekuren....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+29/10/2023, 10:24 pm , Rahul, Pasanga kitta pesitu solldren da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+29/10/2023, 10:24 pm , Ragu, Ok...naa owner kita um pesitan...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+29/10/2023, 10:25 pm , Rahul, Owner kitta enna ketta,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/10/2023, 10:27 pm , Ragu, Same dha ...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/10/2023, 10:28 pm , Ragu, Ipa extra vadha va kita vagi dha tharanum sona ru .....ila naa ney pesukiren nu solitan....neenga soldra porudha avarukita pesa mudium,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+29/10/2023, 10:29 pm , Ragu, Avaru un kita pesuren sonaru....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/11/2023, 11:27 am , Ragu, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+07/11/2023, 11:28 am , Ragu, Ipa amount ila ...na old advance piruchi settle panitu blance neega pathukonga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+07/11/2023, 11:31 am , Ragu, Money yedhuku yenaku need nu soliten ....clear ra solunga ....da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+07/11/2023, 1:46 pm , Rahul, Deii tdy illana tomo vanthurumnu sollirukan da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+07/11/2023, 2:18 pm , Ragu, today emi pay panum nu da what I do ......?adha amount kedikala plz don't late,"{'neg': 0.095, 'neu': 0.816, 'pos': 0.088, 'compound': -0.0258}",-0.0258,0.088,0.816,0.095,neg,2
+07/11/2023, 7:18 pm , Rahul, Avan pottathum tharen da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+07/11/2023, 8:44 pm , Ragu, Ok da....late panidathinga,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.524,0.476,0.0,pos,3
+08/11/2023, 5:39 am , Rahul, Amount sent pannitenda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+08/11/2023, 7:08 am , Ragu, 8k total la?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+08/11/2023, 8:13 am , Rahul, Reduction irrukum la,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+08/11/2023, 8:27 am , Ragu, Okok....da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+08/11/2023, 8:29 am , Ragu, 2300 ahh redeem ahh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+08/11/2023, 8:32 am , Ragu, 👍🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+08/11/2023, 1:21 pm , Rahul, Hada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/12/2023, 11:37 am , Ragu, Deii Friday free ya,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.5106}",0.5106,0.524,0.476,0.0,pos,1
+15/12/2023, 1:24 pm , Rahul, Tdyvada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/12/2023, 1:26 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/12/2023, 1:27 pm , Rahul, Sari ennanu sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/12/2023, 1:33 pm , Ragu, Soldren...wait,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/12/2023, 1:53 pm , Rahul, Hak,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",0.4404,1.0,0.0,0.0,pos,0
+31/12/2023, 11:06 am , Rahul, Happy birthday da ✨🎂🎉,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,0.552,0.448,0.0,pos,2
+31/12/2023, 11:15 am , Ragu, Romba nandri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+01/01/2024, 4:30 am , Ragu, 🎊🥳🥳Wishing you a year of happiness,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.5574}",0.5574,0.474,0.526,0.0,pos,0
+01/01/2024, 6:43 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+01/01/2024, 9:37 am , Ragu, Forward panadha da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+01/01/2024, 9:37 am , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+01/01/2024, 10:41 am , Rahul, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+31/03/2024, 4:42 pm , Ragu, null,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+31/03/2024, 5:11 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+01/05/2024, 3:52 pm , Ragu, https://www.facebook.com/share/r/pkF7jLB61dWHqSBL/?mibextid=xfxF2i,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+20/05/2024, 4:50 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 2:21 pm , Ragu, Deii.....next month....thirupathi polama ma .....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+15/06/2024, 4:51 pm , Rahul, Pakkala da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+15/06/2024, 5:02 pm , Ragu, Why...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 5:03 pm , Ragu, Month end dha ...da...all other ok solitanga,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.296}",0.296,0.268,0.732,0.0,pos,3
+15/06/2024, 5:03 pm , Rahul, Yarulada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 5:04 pm , Rahul, Polamnu sollita kandipa poromnu ethirpapinga atha pakala nu solldren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 5:13 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 5:13 pm , Ragu, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 5:13 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 6:32 pm , Rahul, Ennada na confirm nu neeye solldra 😳,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 6:35 pm , Ragu, Adhalm confirm dha da va...va...pola...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 6:36 pm , Ragu, Saturday poitu early Sunday return....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 6:36 pm , Ragu, Next month dha na.....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 6:39 pm , Rahul, Deii tripathi la ticket book pannanum neraiya irruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,1
+15/06/2024, 6:46 pm , Ragu, Bro....adhalm naa pathukuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 6:47 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 7:17 pm , Rahul, Serida pakkala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,2
+15/06/2024, 7:18 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 7:30 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 7:31 pm , Ragu, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,0
+15/06/2024, 7:57 pm , Rahul, Okda pathuttu sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 8:15 pm , Ragu, Ok.da all set....one room 200 varum....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
+15/06/2024, 8:46 pm , Rahul, Hada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,4
+15/06/2024, 10:00 pm , Ragu, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,1.0,0.0,0.0,pos,3
+29/06/2024, 6:07 pm , Ragu, https://fmoviesz.to/home,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,pos,3
